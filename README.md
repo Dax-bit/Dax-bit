@@ -2,6 +2,7 @@
 
 Software Engineering Student passionate about transforming business requirements into scalable software solutions.
 
+
 ## 🔭 Areas of Interest
 
 - Requirements Engineering
@@ -22,7 +23,7 @@ Software Engineering Student passionate about transforming business requirements
 ## ✔️Featured Projects
 
 - 🏦 BADR Invest
-   -Mobile brokerage platform for the Algerian stock market (collaboration with BADR banque).
+Mobile brokerage platform for the Algerian stock market (collaboration with BADR banque).
 
 - 🛒 Stocky
 Mobile inventory and POS solution.
