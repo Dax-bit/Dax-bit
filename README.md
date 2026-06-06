@@ -2,7 +2,7 @@
 
 Software Engineering Student passionate about transforming business requirements into scalable software solutions.
 
-
+---
 ##🔭 Areas of Interest
 
 - Requirements Engineering
