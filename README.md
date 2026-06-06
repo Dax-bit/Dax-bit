@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi 😊, I'm Ben Makhlouf Soltane aka "DAX".
 
-<!--
-**Dax-bit/Dax-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineering Student passionate about transforming business requirements into scalable software solutions.
 
-Here are some ideas to get you started:
+🔭 Areas of Interest
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Requirements Engineering
+- Software Analysis & Design
+- UML Modeling
+- Object-Oriented Design
+- Database Architecture
+- Mobile Development
+
+👾 Technologies
+
+- Java
+- Python
+- SQLite
+- Flutter
+- Dart
+
+✔️Featured Projects
+
+🏦 BADR Invest
+Mobile brokerage platform for the Algerian stock market (collaboration with BADR banque).
+
+🛒 Stocky
+Mobile inventory and POS solution.
+
+🎓 University Guide
+Android application for navigating university information(Collaboration with UMBB).
+
+ 🚄Train Search System
+Python-based train route search platform(Collaboration wih SNTF).
+
+
