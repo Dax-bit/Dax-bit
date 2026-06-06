@@ -2,7 +2,6 @@
 
 Software Engineering Student passionate about transforming business requirements into scalable software solutions.
 
----
 ## 🔭 Areas of Interest
 
 - Requirements Engineering
@@ -12,7 +11,7 @@ Software Engineering Student passionate about transforming business requirements
 - Database Architecture
 - Mobile Development
 
-👾 Technologies
+## 👾 Technologies
 
 - Java
 - Python
@@ -20,18 +19,18 @@ Software Engineering Student passionate about transforming business requirements
 - Flutter
 - Dart
 
-✔️Featured Projects
+## ✔️Featured Projects
 
-🏦 BADR Invest
+- 🏦 BADR Invest
 Mobile brokerage platform for the Algerian stock market (collaboration with BADR banque).
 
-🛒 Stocky
+- 🛒 Stocky
 Mobile inventory and POS solution.
 
-🎓 University Guide
+- 🎓 University Guide
 Android application for navigating university information(Collaboration with UMBB).
 
- 🚄Train Search System
+- 🚄Train Search System
 Python-based train route search platform(Collaboration wih SNTF).
 
 
