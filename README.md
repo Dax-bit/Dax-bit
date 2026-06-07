@@ -52,6 +52,7 @@ My primary interests lie in software engineering, business systems, fintech plat
 ### 🏦 BADR Invest
 
 Mobile brokerage platform prototype designed for the Algerian stock market.
+### check : [BADR Invest](https://github.com/DAX-bit/BADR-Invest)
 
 **Highlights:**
 
@@ -67,6 +68,7 @@ Mobile brokerage platform prototype designed for the Algerian stock market.
 ### 🛒 Stocky
 
 Mobile inventory and sales management solution for small businesses.
+### check : [Stocky](https://github.com/DAX-bit/Stocky)
 
 **Highlights:**
 
